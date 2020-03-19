@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+## Whitelist
+!*/	# directories
+!.gitignore
+!*.tex
+!*.pdf
